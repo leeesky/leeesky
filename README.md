@@ -1,5 +1,6 @@
 ### Hi, there! Welcome to the **Sky's Code Factory**
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:leeeskylee@gmail.com)
+ [![Instargram Badge](https://img.shields.io/badge/instragram-E4405F?style=flat-square&logo=instragram&logoColor=white&link=https://www.instagram.com/leeskyleee/)](https://www.facebook.com/zzsza)
 #### **Master of Aerospace Engineering 🚀**
 #### I enjoy druming, reading and travling! 😎
 
