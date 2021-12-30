@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 
-<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky&&show_icons=true&theme=buefy)
+<div align=center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky&&show_icons=true&theme=buefy)</div>
