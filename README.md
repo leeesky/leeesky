@@ -2,7 +2,7 @@
 #### I'm studying in South Korea, Master of Aerospace Engineering 🚀 
 Contact me >>> [![Gmail Badge](https://img.shields.io/badge/leeeskylee@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:leeeskylee@gmail.com)
  [![Instargram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/leeskyleee/)](https://www.instagram.com/leeskyleee/)
-[![Site Badge](https://img.shields.io/badge/Controla-002157?style=flat-square&logo=Controla&logoColor=white&link=http://www.controla.re.kr/)](http://www.controla.re.kr/)
+[![Site Badge](https://img.shields.io/badge/Controla.re.kr-002157?style=flat-square&logo=Controla.re.kra&logoColor=white&link=http://www.controla.re.kr/)](http://www.controla.re.kr/)
 
 
 
