@@ -1,5 +1,5 @@
 ### Hi, there! Welcome to the **Sky's Code Factory**
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:leeeskylee@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/leeeskylee@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:leeeskylee@gmail.com)
  [![Instargram Badge](https://img.shields.io/badge/Instragram-E4405F?style=flat-square&logo=Instragram&logoColor=white&link=https://www.instagram.com/leeskyleee/)](https://www.instagram.com/leeskyleee/)
 #### **Master of Aerospace Engineering 🚀**
 #### I enjoy druming, reading and travling! 😎
