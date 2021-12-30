@@ -8,8 +8,8 @@ Contact me >>> [![Gmail Badge](https://img.shields.io/badge/leeeskylee@gmail.com
 
 ### interest
 - Space system and satellite system
-- Artificial intelligence and Meachine Leaning
-- Linier & Nonlinier Model Predict Control
+- Artificial intelligence and Machine Learning
+- Linear & Nonlinear Model Predict Control
 - Filtering (Kalman Filter)
 
 
