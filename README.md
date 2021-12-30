@@ -1,5 +1,6 @@
-## **Welcome to the Sky's Code Factory 😎**
+### Hi, there! Welcome to the **Sky's Code Factory**
 #### **Master of Aerospace Engineering 🚀**
+#### I enjoy druming, reading and travling! 😎
 📌 interest
 - Meachine Leaning
 - Model Predict Control
